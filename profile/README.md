@@ -1,5 +1,7 @@
 <p align="center"><img width="400" src="./logo.png" alt="logo"/></p>
 
+<p align="center"><img src="https://img.shields.io/badge/license-MIT-green" alt="license"/></p>
+
 ## Belraroot Framework
 
 Belraroot is a simple PHP Framework optimized for Native App.
